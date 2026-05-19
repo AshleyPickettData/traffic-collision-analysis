@@ -19,8 +19,7 @@ Traffic collisions result in injuries, fatalities, and economic costs. The goal 
 - Weather and traffic density impacted injury rates
 
 ## Dashboard
-[Insert Tableau Link Here]
-
+[(https://public.tableau.com/app/profile/valerija.vjacina/viz/CollisionAnalysisDeliverableVV_3_14_2025Original/Story1?publish=yes)]
 ## Recommendations
 - Increase traffic enforcement during high-risk periods
 - Improve infrastructure in high-collision areas
